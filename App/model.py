@@ -37,6 +37,7 @@ Se define la estructura de un catálogo de videos. El catálogo tendrá dos list
 los mismos.
 """
 
+
 # Construccion de modelos
 
 # Funciones para agregar informacion al catalogo
