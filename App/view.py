@@ -37,7 +37,12 @@ operación solicitada
 def printMenu():
     print("Bienvenido")
     print("1- Cargar información en el catálogo")
-    print("2- ")
+    print("2- Req_1: Cantidad de componentes conectados")
+    print("3- Req_2: Landing points")
+    print("4- Req_3: Ruta con la mínima distancia")
+    print("5- Req_4: Infraestructura crítica")
+    print("6- Req_5: Impacto de fallo en landing point")
+    print("7: Req_6: Ancho de banda máximo para transmición")
 
 catalog = None
 
